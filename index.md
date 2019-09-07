@@ -1,8 +1,7 @@
-Some of you have noticed that our website is down. We are also having issues with email coming to pegasus(at)pegasusgames.com . While this situation is being resolved, we can be reached by email at pegagames(at)gmail.com . Yeaaaay, Technology!?
-
+<h1>Some of you have noticed that our website is down. We are also having issues with email coming to pegasus(at)pegasusgames.com . While this situation is being resolved, we can be reached by email at pegagames(at)gmail.com . Yeaaaay, Technology!?</h1>
 
 <div class="span3">
-	<h3>List of 2013 Events</h3>
+	<h3>Upcoming Gaming Events</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
