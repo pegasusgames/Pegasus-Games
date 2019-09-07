@@ -3,7 +3,6 @@ layout: page
 title: Pegasus Games
 type: info
 header_text: Pegasus Games Calendar
-calendar: true
 ---
 
 <h2>Some of you have noticed that our website is down. We are also having issues with email coming to pegasus(at)pegasusgames.com . While this situation is being resolved, we can be reached by email at pegagames(at)gmail.com . Yeaaaay, Technology!?</h2>
