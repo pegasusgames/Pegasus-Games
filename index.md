@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Pegasus Games
-type: info
 header_text: Pegasus Games Calendar
 ---
 
